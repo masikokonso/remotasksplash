@@ -1,1 +1,63 @@
-const _0x3632a2=_0x4388;(function(_0x127ebd,_0x572cfb){const _0x43a81a=_0x4388,_0x4987a9=_0x127ebd();while(!![]){try{const _0x3341ce=-parseInt(_0x43a81a(0xa6))/(-0xd9*-0x11+-0x432+-0xa36*0x1)+-parseInt(_0x43a81a(0xa2))/(-0x15d*0x1b+-0x711+-0x29*-0x112)*(-parseInt(_0x43a81a(0x8c))/(0x1d1b+0x1c97+-0x39af))+parseInt(_0x43a81a(0x9f))/(0xdd0+-0x1839+0xa6d)*(-parseInt(_0x43a81a(0x8f))/(0x2*-0x8c3+0x1*0xa31+0x75a))+-parseInt(_0x43a81a(0x97))/(-0x1f19*-0x1+0x5*0x531+-0x3908*0x1)+parseInt(_0x43a81a(0xa1))/(0x6b*-0x22+0xaee+-0x34f*-0x1)*(-parseInt(_0x43a81a(0x86))/(0x2438+-0x2349+-0x3*0x4d))+parseInt(_0x43a81a(0x96))/(-0x1*-0x1382+0x3d*0x2b+-0x1db8)+parseInt(_0x43a81a(0x95))/(-0x6*-0x4a1+0x205d*-0x1+0x4a1);if(_0x3341ce===_0x572cfb)break;else _0x4987a9['push'](_0x4987a9['shift']());}catch(_0x4489b8){_0x4987a9['push'](_0x4987a9['shift']());}}}(_0x379d,0x32f66+-0x2f74f+-0xd*-0x2866));const APP_CONFIG={'domain':_0x3632a2(0xa3)+_0x3632a2(0xb3)+_0x3632a2(0xae),'protocol':_0x3632a2(0xa0),get 'baseUrl'(){const _0x481d72=_0x3632a2;return this[_0x481d72(0x9c)]+_0x481d72(0xad)+this[_0x481d72(0x9b)];},'url'(_0x3e71db=''){const _0x276ab3=_0x3632a2;return''+this[_0x276ab3(0xb1)]+_0x3e71db;}};function _0x379d(){const _0x1a39c0=['727014KSPlGX','url','AppNav','dashboard.','domain','protocol','href','mlVRY','574252HdKJXI','https','3017ZKyYcJ','402gDFujo','remotasksp','rWqbx','zLCyo','268848TbDRUa','html','Domain','enforceApp','goTo','hostname','-quiz.html','://','l.app','xOKJS','HCubC','baseUrl','\x20Redirecti','lash.verce','location','pathname','UMKcb','onboarding','info.html','HufMS','boXHH','important-','login.html','nwcSA','hash','account-pu','VCVCf','4024zHHQdl','welcome.ht','signup.htm','YUaZJ','ng...','rchase.htm','3894hxdPUm','ed\x20domain.','yIvqs','5izjKTD','search','APP_CONFIG','replace','Unauthoriz','RdhSX','6213150GpzlWI','152685FClvUB'];_0x379d=function(){return _0x1a39c0;};return _0x379d();}function enforceAppDomain(){const _0x1658a0=_0x3632a2,_0x22ed26={'xOKJS':function(_0x3dc315,_0x4a22ea){return _0x3dc315!==_0x4a22ea;},'rWqbx':function(_0x591f43,_0x22c25b){return _0x591f43+_0x22c25b;},'UMKcb':function(_0x565462,_0x185246){return _0x565462!==_0x185246;},'HufMS':_0x1658a0(0x93)+_0x1658a0(0x8d)+_0x1658a0(0xb2)+_0x1658a0(0x8a),'VCVCf':function(_0x523abd,_0x4a4a05,_0x24c3d7){return _0x523abd(_0x4a4a05,_0x24c3d7);}},_0x4f58de=window[_0x1658a0(0xb4)][_0x1658a0(0xab)];if(_0x22ed26[_0x1658a0(0xb6)](_0x4f58de,APP_CONFIG[_0x1658a0(0x9b)])){const _0x1796b5=_0x22ed26[_0x1658a0(0xa4)](_0x22ed26[_0x1658a0(0xa4)](_0x22ed26[_0x1658a0(0xa4)](APP_CONFIG[_0x1658a0(0xb1)],window[_0x1658a0(0xb4)][_0x1658a0(0xb5)]),window[_0x1658a0(0xb4)][_0x1658a0(0x90)]),window[_0x1658a0(0xb4)][_0x1658a0(0x83)]);window[_0x1658a0(0xb4)][_0x1658a0(0x92)](_0x1796b5);throw new Error(_0x22ed26[_0x1658a0(0xb9)]);}_0x22ed26[_0x1658a0(0x85)](setInterval,()=>{const _0x784cc2=_0x1658a0;_0x22ed26[_0x784cc2(0xaf)](window[_0x784cc2(0xb4)][_0x784cc2(0xab)],APP_CONFIG[_0x784cc2(0x9b)])&&window[_0x784cc2(0xb4)][_0x784cc2(0x92)](_0x22ed26[_0x784cc2(0xa4)](APP_CONFIG[_0x784cc2(0xb1)],window[_0x784cc2(0xb4)][_0x784cc2(0xb5)]));},0x21f*-0x1+0x2653+-0x856*0x2);}const AppNav={'goTo'(_0x1344f1){const _0x1cad52=_0x3632a2,_0x4d64f9={'zLCyo':function(_0x1e4d24,_0x4fb917){return _0x1e4d24+_0x4fb917;}};window[_0x1cad52(0xb4)][_0x1cad52(0x9d)]=APP_CONFIG[_0x1cad52(0x98)](_0x4d64f9[_0x1cad52(0xa5)]('/',_0x1344f1));},'welcome'(){const _0x2abc6d=_0x3632a2,_0x57a312={'HCubC':_0x2abc6d(0x87)+'ml'};this[_0x2abc6d(0xaa)](_0x57a312[_0x2abc6d(0xb0)]);},'signup'(){const _0x163c0b=_0x3632a2,_0x50aaaa={'mlVRY':_0x163c0b(0x88)+'l'};this[_0x163c0b(0xaa)](_0x50aaaa[_0x163c0b(0x9e)]);},'login'(){const _0x4b0dc0=_0x3632a2,_0x2fd66e={'boXHH':_0x4b0dc0(0xbc)};this[_0x4b0dc0(0xaa)](_0x2fd66e[_0x4b0dc0(0xba)]);},'onboarding'(){const _0x1159a2=_0x3632a2,_0x2387c0={'RdhSX':_0x1159a2(0xb7)+_0x1159a2(0xac)};this[_0x1159a2(0xaa)](_0x2387c0[_0x1159a2(0x94)]);},'accountPurchase'(){const _0x9c46ed=_0x3632a2,_0x273a8a={'YUaZJ':_0x9c46ed(0x84)+_0x9c46ed(0x8b)+'l'};this[_0x9c46ed(0xaa)](_0x273a8a[_0x9c46ed(0x89)]);},'importantInfo'(){const _0x4c5054=_0x3632a2,_0x123763={'nwcSA':_0x4c5054(0xbb)+_0x4c5054(0xb8)};this[_0x4c5054(0xaa)](_0x123763[_0x4c5054(0x82)]);},'dashboard'(){const _0x522f5c=_0x3632a2,_0x26e56c={'yIvqs':_0x522f5c(0x9a)+_0x522f5c(0xa7)};this[_0x522f5c(0xaa)](_0x26e56c[_0x522f5c(0x8e)]);}};function _0x4388(_0xc2c8b7,_0x325fc2){_0xc2c8b7=_0xc2c8b7-(0x1*-0x263b+0x1d2d+0x990);const _0x167e67=_0x379d();let _0x19be13=_0x167e67[_0xc2c8b7];return _0x19be13;}window[_0x3632a2(0x91)]=APP_CONFIG,window[_0x3632a2(0x99)]=AppNav,window[_0x3632a2(0xa9)+_0x3632a2(0xa8)]=enforceAppDomain;
+// ================== APP CONFIG ==================
+// Central configuration file for REMO-TASK
+// Update the APP_DOMAIN here to change the redirect across all pages
+
+const APP_CONFIG = {
+    domain: 'remotask-web.vercel.app',
+    protocol: 'https',
+
+    // Full base URL (auto-built from above)
+    get baseUrl() {
+        return `${this.protocol}://${this.domain}`;
+    },
+
+    // Build a full URL with optional path
+    url(path = '') {
+        return `${this.baseUrl}${path}`;
+    }
+};
+
+// ================== DOMAIN PROTECTION ==================
+// Call this on any page to enforce domain redirect
+function enforceAppDomain() {
+    const currentHost = window.location.hostname;
+
+    if (currentHost !== APP_CONFIG.domain) {
+        const redirectUrl = APP_CONFIG.baseUrl
+            + window.location.pathname
+            + window.location.search
+            + window.location.hash;
+
+        window.location.replace(redirectUrl);
+        throw new Error('Unauthorized domain. Redirecting...');
+    }
+
+    // Ongoing check every 5 seconds
+    setInterval(() => {
+        if (window.location.hostname !== APP_CONFIG.domain) {
+            window.location.replace(
+                APP_CONFIG.baseUrl + window.location.pathname
+            );
+        }
+    }, 5000);
+}
+
+// ================== PAGE NAVIGATION HELPERS ==================
+// Use these functions to navigate between pages from anywhere
+const AppNav = {
+    goTo(page) {
+        window.location.href = APP_CONFIG.url('/' + page);
+    },
+    welcome()          { this.goTo('welcome.html'); },
+    signup()           { this.goTo('signup.html'); },
+    login()            { this.goTo('login.html'); },
+    onboarding()       { this.goTo('onboarding-quiz.html'); },
+    accountPurchase()  { this.goTo('account-purchase.html'); },
+    importantInfo()    { this.goTo('important-info.html'); },
+    dashboard()        { this.goTo('dashboard.html'); },
+};
+
+// Expose globally
+window.APP_CONFIG = APP_CONFIG;
+window.AppNav = AppNav;
+window.enforceAppDomain = enforceAppDomain;
