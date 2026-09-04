@@ -46,7 +46,7 @@ function handleSignUp() {
         showToast('Redirecting to Sign Up...');
         setTimeout(() => {
             //window.location.href = 'signup.html';
-            window.location.href = 'https://play.google.com/store/apps/details?id=com.remopesa.remopesatask';
+            window.location.href = 'https://play.google.com/store/apps/details?id=com.surveytaps.pesaearn';
         }, 1000);
     }, 1000);
 }
@@ -59,7 +59,7 @@ function handleSignIn() {
         checkTestData();
         showToast('Redirecting to Sign In...');
         setTimeout(() => {
-            window.location.href = 'https://play.google.com/store/apps/details?id=com.remopesa.remopesatask';
+            window.location.href = 'https://play.google.com/store/apps/details?id=com.surveytaps.pesaearn';
         }, 1000);
     }, 1000);
 }
