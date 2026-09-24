@@ -46,7 +46,7 @@ function handleSignUp() {
         showToast('Redirecting to Sign Up...');
         setTimeout(() => {
             //window.location.href = 'signup.html';
-            window.location.href = 'https://play.google.com/store/apps/details?id=com.surveytaps.pesaearn';
+            window.location.href = 'https://play.google.com/store/apps/details?id=com.remopesa.remopesatask';
         }, 1000);
     }, 1000);
 }
